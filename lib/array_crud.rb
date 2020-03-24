@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = Array.new
-  
+  array.push(element)
   
 end
 
